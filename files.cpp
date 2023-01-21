@@ -36,8 +36,6 @@ int main()
    
     //Intro txt
     cout<<"Welcome to file creater where you can create, write, and read to a file.\n";
-    cout<<"\n";
-
    
     cout << "First off what would you like your file to say:\n";
     //store text string of the input to the file.
@@ -54,7 +52,6 @@ int main()
     file << text<< endl;
     file.close();
 
-    
     //error message for no file created
     if(!file)
     {

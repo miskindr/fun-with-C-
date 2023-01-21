@@ -1,20 +1,21 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a program of me working on C++ and learning how to use files while learning the basics of C++
 
-{Provide a description of the software that you wrote to demonstrate the C++ language.}
+The program will create a file of your choosing with the text that you input from the terminal and then display the text
+back to you as well as the word count. There is also a math surprise tacked on at the end.
 
-{Describe your purpose for writing this software.}
+The purpose of this program was to show my understand of python as i raced to learn as much as I could in a 2 week span.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[C++ video](https://youtu.be/dMKQ5-5kYVs
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+*Visual Studio Code
+*C++
+*Git / GitHub
 
 # Useful Websites
 
@@ -27,11 +28,9 @@
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+- Fix some of the bug like not being able to add spaces in text file
+- make the display more pleasent to look at and easier to follow
 
-- Item 1
-- Item 2
-- Item 3
 {Time Spent}
 Jan 12 
 12:45pm - 1:45pm
@@ -50,4 +49,4 @@ Jan 19
 Jan 20
 1am - 2am
 Jan 21
-12am -
+12am - 3 am
