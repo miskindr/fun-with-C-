@@ -50,3 +50,4 @@ Jan 20
 1am - 2am
 Jan 21
 12am - 3 am
+Total hour - 13hours
